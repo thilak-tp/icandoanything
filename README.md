@@ -10,3 +10,7 @@ One thing that I wanna achieve in this process is to land a Job at the biggest t
 22'nd July 2025
 ---------------
 - I wanted to take baby steps in the beginning. Add waking up early, cycling, meditation, DSA and System Design to my daily routine.
+
+11'th August 2025
+----------------
+- Better late than never, So starting off today with arrays in C++. malloc, calloc and new. Implemented a memcpy function to copy data from source to destination of the given size
